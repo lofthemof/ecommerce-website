@@ -34,8 +34,3 @@ const Checkout = () => {
 };
 
 export default Checkout;
-
-{
-  /* <span onClick={() => removeItemToCart(cartItem)}>decrement</span>
-            <span onClick={() => addItemToCart(cartItem)}>increment</span> */
-}

@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Ecommerce website for clothes built using React.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Online clothing shop with an item directory, shopping cart, and checkout page. Includes user authentication integrated with Google Firebase for storing user data.
 
 ## Available Scripts
 
