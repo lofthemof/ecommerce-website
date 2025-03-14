@@ -1,6 +1,10 @@
 # Ecommerce website for clothes built using React.
 
-Online clothing shop with an item directory, shopping cart, and checkout page. Includes user authentication integrated with Google Firebase for storing user data.
+Online clothing shop with a functioning item directory, shopping cart, and checkout page.
+
+User authentication integrated with Google Firebase.
+
+User data & shop items stored using Firestore Database.
 
 ## Available Scripts
 
