@@ -1,4 +1,4 @@
-# Ecommerce website for clothes built using React.
+# Ecommerce Website for Clothes Built Using React.
 
 Online clothing shop with a functioning item directory, shopping cart, and checkout page.
 
